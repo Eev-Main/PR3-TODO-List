@@ -27,7 +27,7 @@ namespace PR3_TODO_List
             {
                 Console.WriteLine(" ");
                 Console.WriteLine("--------------------------------------");
-                Console.WriteLine("Escribe el numero de la opción que deseas realizar:");
+                Console.WriteLine("Escribe el numero de la opción que deseas realizar y presiona ENTER:");
                 Console.WriteLine(" ");
                 Console.WriteLine(" 1) Agregar Pendiente/quehacer");
                 Console.WriteLine(" 2) Mostrar Pendientes terminados y Pendientes sin terminar");
